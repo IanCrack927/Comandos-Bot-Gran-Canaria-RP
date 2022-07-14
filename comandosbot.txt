@@ -1,0 +1,10 @@
+Los comandos del bot son los siguientes:
+
+ /desarrollador (Desarrollador del bot)
+ /server (Invitacion de discord al server)
+ /estado (Estado del bot)
+ /reglas (Reglas del servidor)
+ /normativaroleplay (Normativa del roleplay)
+ /codigopenal (Codigo penal del servidor y de españa, es el mismo xd)
+ /codigo (Codigo de union al servidor)
+ /tutorial (Tutorial de como unirse a un servidor privado, con el codigo de arriba)
